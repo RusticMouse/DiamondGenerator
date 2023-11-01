@@ -48,6 +48,6 @@ IDK dude, just wanted to show that i'm better than c4vxl
    ***
     *
 ```
---
+---
 ## Developer
 This Project was developed by [rusticmouse]
