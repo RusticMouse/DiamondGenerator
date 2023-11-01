@@ -9,7 +9,7 @@ This Java program generates diamond patterns that you can print and enjoy. You c
 
 ## Usage
 
-You can use the `DiamondGenerator` class to create Christmas trees:
+You can use the `DiamondGenerator` class to create diamond shapes:
 
 ### Creating a Diamond Shape
 
