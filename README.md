@@ -13,7 +13,7 @@ You can use the `DiamondGenerator` class to create Christmas trees:
 
 ### Creating a Diamond Shape
 
-To create a diamond shape with a specified size of the diamond shape using the default decoration (asterisks `#`), you can use the `createDiamond` method:
+To create a diamond shape with a specified size of the diamond shape using the default decoration (asterisks `*`), you can use the `createDiamond` method:
 
 ```java
 String diamond = DiamondGenerator.createDiamond(size, symbol);
